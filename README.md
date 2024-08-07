@@ -25,6 +25,7 @@ Open Frontend task_frontend folder in vs code or command prompt and type below c
 
 - composer install
 - php spark serve
+
 The frontend will be available at http://localhost:8080 or http://localhost:8081
 
 Now using the frontend interface you can easily communicate with backend database usin RESTful apis
