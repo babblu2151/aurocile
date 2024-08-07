@@ -7,9 +7,7 @@ Before you begin, ensure you have the following installed:
 - Node.js and npm (for frontend dependencies if needed)
 - Git
 
-
-1. Download or clone the repository
-
+Download or clone the repository
 
 ## Setup Backend
 
